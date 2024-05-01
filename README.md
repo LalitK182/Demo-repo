@@ -1,2 +1,3 @@
 # Demo-repo
-git and github training 
+git and GitHub training 
+by LK
